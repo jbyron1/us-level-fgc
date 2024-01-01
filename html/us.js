@@ -10,13 +10,13 @@ const 获取元素方位 = 元素 => 元素.getBoundingClientRect();
 const messages = {
     English: {
         message: {
-            data_level_5: 'Lived Here',
-            data_level_4: 'Stayed Here',
-            data_level_3: 'Visited Here',
-            data_level_2: 'Stopped Here',
-            data_level_1: 'Passed Here',
-            data_level_0_alt: 'Want to be Here',
-            data_level_0: 'Never Been Here',
+            data_level_5: 'House Session',
+            data_level_4: 'Attended weekly',
+            data_level_3: 'Attended monthly',
+            data_level_2: 'Attended regional',
+            data_level_1: 'Attended major',
+            data_level_0_alt: 'Want to play here',
+            data_level_0: 'Never played here',
             pt: 'pt | pts',
         },
         country_name: {
